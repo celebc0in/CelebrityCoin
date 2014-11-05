@@ -1,8 +1,8 @@
 src/*.exe
-src/smallchange
-src/test_smallchange
+src/CelebrityCoin
+src/test_CelebrityCoin
 src/build.h
-.*.swp
+.*.swpCelebrityCoin
 *.*~*
 *.bak
 *.rej
@@ -13,7 +13,7 @@ src/build.h
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-smallchange-qt
+-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
